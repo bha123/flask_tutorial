@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_post"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"redirec",
+				"redirect_url"
+			],
+			[
+				"c",
+				"current_app"
+			],
+			[
+				"insta",
+				"instace_path"
+			],
+			[
+				"n",
+				"nodes_visited"
+			],
+			[
+				"path",
+				"path_of_the_node"
+			],
+			[
+				"nodes",
+				"nodes_visited"
+			],
+			[
+				"che",
+				"check_node_present"
+			],
+			[
+				"no",
+				"nodes_visited"
+			],
+			[
+				"kr",
+				"Kruskals_algorithm"
+			],
+			[
+				"sort",
+				"sorted_list"
+			],
+			[
+				"b",
+				"bubble_sort"
+			],
+			[
+				"sor",
+				"sorted_list"
+			],
+			[
+				"edg",
+				"edge_node"
+			],
+			[
+				"r",
+				"right_node"
+			],
+			[
+				"le",
+				"left_node"
+			],
+			[
+				"queue",
+				"queue_of_node"
+			],
+			[
+				"queu",
+				"queue_of_node"
+			],
+			[
+				"qu",
+				"queue_of_node"
+			],
+			[
+				"s",
+				"show_node"
+			],
+			[
+				"a",
+				"add_edge"
+			],
+			[
+				"mid",
+				"midpoint"
+			],
+			[
+				"S",
+				"Search_value_found"
+			],
+			[
+				"search",
+				"Search_value_found"
+			],
+			[
+				"sea",
+				"search_value"
+			],
+			[
+				"value",
+				"value_found"
+			],
+			[
+				"bina",
+				"binary_search"
+			],
+			[
+				"valu",
+				"value_found"
+			],
+			[
+				"mi",
+				"mid_point"
+			],
+			[
+				"ele",
+				"element_present"
+			],
+			[
+				"el",
+				"element_present"
+			],
+			[
+				"root",
+				"root_node"
+			],
+			[
+				"tra",
+				"traverse_tree"
+			],
+			[
+				"tree",
+				"tree_node"
+			],
+			[
+				"ro",
+				"root_node_create"
+			],
+			[
+				"node",
+				"node_value"
+			],
+			[
+				"merge",
+				"mergesort"
+			],
+			[
+				"l",
+				"left_node"
+			],
+			[
+				"Node",
+				"Node_list"
+			],
+			[
+				"Ca",
+				"Capture_image_from_webcam"
+			],
+			[
+				"cap",
+				"capture_image"
+			],
+			[
+				"D",
+				"DEST_FILE_PATH"
+			],
+			[
+				"up",
+				"upload_folder_dropbox"
+			],
+			[
+				"dummy",
+				"dummy_body"
+			],
+			[
+				"sprea",
+				"spreadsheets"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"SAM",
+				"SAMPLE_SPREADSHEET_ID"
+			],
+			[
+				"sp",
+				"spreadsheetId"
+			],
+			[
+				"spr",
+				"spreadsheets"
+			],
+			[
+				"q",
+				"question_items"
+			],
+			[
+				"exit",
+				"exit"
+			],
+			[
+				"ques",
+				"question_items"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"ca",
+				"candi_answer"
+			],
+			[
+				"que",
+				"questions_items"
+			],
+			[
+				"se",
+				"seq_number"
+			],
+			[
+				"op",
+				"option_e"
+			],
+			[
+				"opt",
+				"option_e"
+			],
+			[
+				"opti",
+				"option_a"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"auth",
+				"auth_service_url"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"is",
+				"is_authenticated"
+			],
+			[
+				"user",
+				"User"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"exce",
+				"exceptions"
+			],
+			[
+				"resp",
+				"resp_json"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"vi",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Log"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"git clone https://github.com/bha123/DataStructures_Algorithms",
+			"git clone ",
+			"git",
+			"cls",
+			"clear",
+			"git",
+			"git clone",
+			"git",
+			"exit()",
+			"exit",
+			"git "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/Libarary/workspace/flask_web_app/flaskr/__init__.py",
+		"/E/Libarary/workspace/flask_web_app/setup.py",
+		"/E/Libarary/workspace/flask_web_app/tests/data.sql",
+		"/E/Libarary/workspace/flask_web_app/tests/conftest.py",
+		"/E/Libarary/workspace/flask_web_app/flaskr/app.py",
+		"/E/Libarary/workspace/flask_web_app/tests/test_auth.py",
+		"/E/Libarary/workspace/flask_web_app/tests/test_blog.py",
+		"/E/Libarary/workspace/flask_web_app/setup.cfg",
+		"/E/Libarary/workspace/flask_web_app/tests/test_factory.py",
+		"/E/Libarary/workspace/flask_web_app/tests/test_db.py",
+		"/E/Libarary/workspace/flask_web_app/MANIFEST.in",
+		"/E/Libarary/workspace/flask_web_app/flaskr/db.py",
+		"/E/Libarary/workspace/flask_web_app/flaskr/templates/blog/create.html",
+		"/E/Libarary/workspace/flask_web_app/flaskr/templates/blog/update_bkp.html",
+		"/E/Libarary/workspace/flask_web_app/flaskr/templates/blog/update_work.html",
+		"/E/Libarary/workspace/DataStructures_Algorithms/BinaryTree.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Breadth_first_traversal_binarytree.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Linearsearch.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Binarysearch.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Interpolationsearch.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Selectionsort.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Spanning_tree_kruskals_algorithm.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/Graph_datastructure.py",
+		"/E/Libarary/workspace/DataStructures_Algorithms/BubbleSort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/SimpleLinkedList.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/BinaryTree.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/BubbleSort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/InsertionSort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/Selectionsort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/Mergesort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/ShellSort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/Quicksort.py",
+		"/E/Libarary/workspace/Data Structures and Algorithms/BinaryTree",
+		"/E/Libarary/workspace/Data Structures and Algorithms/LinkedList",
+		"/E/Libarary/workspace/Data Structures and Algorithms/SimpleLinkedList",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/Mail Service/mail_with_attachment_2.py",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/dropbox/utils_dropbox.py",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/google_excel_update/create_spread_sheet.py",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platformold/app.py",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/Video Capture/Capture_image_from_webcam.py",
+		"/E/Libarary/workspace/Robot Gardent Project/main_project/lib/main.py",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/templates/render_quiz.html",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/google_excel_update/spreadsheet Id",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/Twitter/twitter.py",
+		"/E/Libarary/workspace/Robot Gardent Project/Tutorials/Video Capture/Capture_video.py",
+		"/E/Libarary/workspace/Robot Gardent Project/main_project/main.py",
+		"/E/Libarary/workspace/Robot Gardent Project/main_project/lib/Capture_image_from_webcam.py",
+		"/C/Users/BharathVinu/AppData/Local/Microsoft/Windows/INetCache/IE/7HJCR6SN/mili_log[1].txt",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/templates/login.html",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/templates/deep_learning_index.html",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-auth/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platformold/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-auth/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platformold/templates/deep_learning_index.html",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-content/content/quiz.json",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/templates/deep_learning_theory.html",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-platform/templates/courses.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platformold/templates/courses.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platformold/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platformold/templates/render_quiz.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-content/content/quiz.json",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/render_quiz.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/courses.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/deep_learning_index.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/login.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/activationfunctions/af-auth/models.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/flask-file-uploader-master/af-platform/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask-file-uploader-master/af-auth/models.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask-file-uploader-master/af-auth/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask-file-uploader-master/af-auth/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/deep_learning_theory.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-authnew/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/Test.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-content/content/deep_learning_theory/cnn/cnn_theory.md",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/lesson.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/notebook.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-auth/app.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-auth/models.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-auth/.env",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-auth/templates/import_quiz.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/signup.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/quiz.html",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/quiz",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/util/user_repository.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-auth/manage.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/misc/__init__.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/util/test_user_repository.py",
+		"/C/Users/BharathVinu/Desktop/workspace/flask_tut/af-platform/templates/__init__.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 204.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "flaskr.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"flaskr\\app.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
